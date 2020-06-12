@@ -1,0 +1,19 @@
+body{
+  background-image: url("https://thehardystudio.com/wp-content/uploads/2017/01/search-background-img.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+
+h1{
+  color: #fff;
+}
+
+h2{
+  color: lightblue;
+  text-shadow: black 2px 2px;
+}
+
+h2:hover{
+  transform: scale(2);
+}

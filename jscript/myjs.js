@@ -9,5 +9,5 @@ var passfinale= name + cognome + colorePref + 19;
 
 //Infine scrivi sulla pagina nomecognomecolorepreferito19
 
-document.getElementById("titolo").innerHTML="Hai generato una password INFALLIBILE: ";
+document.getElementById("titolo").innerHTML="Hai generato una password INFALLIBILE &#129488;: ";
 document.getElementById("passw").innerHTML= passfinale;
